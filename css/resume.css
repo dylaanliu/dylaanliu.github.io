@@ -39,6 +39,13 @@ h2 {
   font-size: 1.35rem;
 }
 
+.sub-subheading {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.15rem;
+}
+
 .list-social-icons a {
   color: #495057;
 }
