@@ -46,6 +46,37 @@ h2 {
   font-size: 1.15rem;
 }
 
+.sub-subheading-no-upper {
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.15rem;
+}
+
+.experience-details {
+  font-weight: 400;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.05rem;
+}
+
+.experience-title {
+  font-family: 'Saira Extra Condensed', serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #343a40;
+}
+
+.collapse-arrow {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-family: 'Saira Extra Condensed', serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #343a40;
+}
+
+.collapse-arrow:after {
+  content: '\2212'; /* Unicode character for "plus" sign (+) */
+}
+
 .list-social-icons a {
   color: #495057;
 }
